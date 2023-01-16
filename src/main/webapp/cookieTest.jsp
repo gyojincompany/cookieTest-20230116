@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>쿠키 확인</title>
+<title>쿠키 확인!</title>
 </head>
 <body>
 	<%
